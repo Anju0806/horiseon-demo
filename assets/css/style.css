@@ -12,6 +12,7 @@ body {
 }
 
 
+
 /* Header
 -----------------------------------*/
 
@@ -57,24 +58,6 @@ p {
     font-size: 16px;
 }
 
-
-/* Adding footer styling
------------------------------------*/
-
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-    
-}
-
-.footer h2 {
-    font-size: 20px;
-}
-/*-------------------------------------*/
-
-
 /* Adding the landing page background image styling
 -----------------------------------*/
 
@@ -82,10 +65,13 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg"); 
+    background-image: url(../images/digital-marketing-meeting.jpg); 
     background-size: cover;
 }
 /*-------------------------------------*/
+
+
+
 
 /* Adding the main content styling
 -----------------------------------*/
@@ -159,3 +145,21 @@ p {
 }
 
 /*-------------------------------------*/
+
+
+/* Adding footer styling
+-----------------------------------*/
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    
+}
+
+.footer h2 {
+    font-size: 20px;
+}
+/*-------------------------------------*/
+
